@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav451
+- 👋 Hi, I’m Gaurav Sharma(@Gaurav451)
 - 👀 I’m interested in ... -> Data Analytics
 - 🌱 I’m currently learning ... -> Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on ... -> Data Analytics Projects
