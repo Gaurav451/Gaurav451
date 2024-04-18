@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Sharma(@Gaurav451)
-- 👀 I’m interested in ... -> Data Analytics / Business Analytics / Data Sciences / Python Development
-- 🌱 I’m currently learning ... -> Data Science, Machine Learning
-- 💞️ I’m looking to collaborate on ... -> Data Analytics / Sciences Projects, Business Analytics Projects
+- 👀 I’m interested in ... -> Data Analytics / Business Analytics / Data Science
+- 🌱 I’m currently learning ... -> Advanced Analytics, Advanced Excel, Data Science
+- 💞️ I’m looking to collaborate on ... -> Data Analytics / Science Projects, Business Analytics Projects
 - 📫 How to reach me ... -> gs2000april@gmail.com
 
 <!---
